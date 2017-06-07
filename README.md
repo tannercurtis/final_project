@@ -72,10 +72,10 @@ Your instructional team will provide feedback on how well you execute best pract
 
 | Milestone        | Due Date           | Deliverable  |
 | ------------- |:-------------:| -----:|
-| Milestone 1 | Week 05 | Project Proposal / Wireframes |
-| Milestone 2 | Week 07 | Draft of HTML / CSS (no JS) |
-| Milestone 3 | Week 08 | First draft of JS |
-| Milestone 4 | Week 09 | Updated Rough Draft |
+| Milestone 1 | Week 06 | Project Proposal |
+| Milestone 2 | Week 07 | Wireframe |
+| Milestone 3 | Week 08 | Rough draft of HTML / CSS / JS |
+| Milestone 4 | Week 09 | Rough draft of HTML / CSS / JS |
 | Milestone 5 | Week 10 | Final Presentation |
 
 ---
