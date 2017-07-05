@@ -1,0 +1,1 @@
+// get the image ID and change the src after 2 seconds
