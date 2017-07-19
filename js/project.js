@@ -1,9 +1,10 @@
-$(".grid").imagesLoaded( function(){
+$(document).ready(function(){
 	$(".grid").masonry({
 			itemSelector: '.grid-images',
 			columnWidth: ".grid-images",
 			percentPosition: true
 	});
+});
 
 	$("a.gallery").featherlightGallery({
 		galleryFadeIn: 0,
@@ -14,6 +15,5 @@ $(".grid").imagesLoaded( function(){
 	    $("nav a").removeClass("current");
 	    $(this).addClass("current");
 	});
-});
 
 //https://github.com/noelboss/featherlight/wiki/Gallery:-swipe-on-touch-devices
